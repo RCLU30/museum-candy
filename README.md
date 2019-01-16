@@ -4,7 +4,7 @@ A simple single page website called "Museum of Candy" built in HTML and CSS usin
 
 ## Website
 
-[https://rclu30.github.io/museumcandy/](https://rclu30.github.io/museumcandy/)
+[https://rickyklu.github.io/museumcandy/](https://rickyklu.github.io/museumcandy/)
 
 ## Motivation
 
