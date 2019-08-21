@@ -4,7 +4,7 @@ A simple single page website called "Museum of Candy" built in HTML and CSS usin
 
 ## Website
 
-[https://rickyklu.github.io/museumcandy/](https://rickyklu.github.io/museumcandy/)
+[https://rickyklu.github.io/museumcandy/](https://rickyklu.github.io/museum-candy/)
 
 ## Motivation
 
@@ -12,9 +12,10 @@ An exercise assignment from the online course [Web Developer Bootcamp
 ](https://www.udemy.com/the-web-developer-bootcamp/) .
 
 ## License
+
 MIT License
 
-Copyright (c) [2018] [Ricky Lu]
+Copyright (c) [2018][ricky lu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
